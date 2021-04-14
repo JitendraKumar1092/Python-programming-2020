@@ -1,1 +1,1 @@
-print("hello git ! finally im there!")
+print("first git commit!")
