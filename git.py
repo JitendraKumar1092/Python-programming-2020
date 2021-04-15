@@ -1,2 +1,2 @@
-print("first git commit")
+a =print
 
